@@ -10,5 +10,7 @@ package player;
  * @author Kristian
  */
 public class ComponentLoader {
-    
+    public static void main(String[]args){
+        System.out.println("Hey");
+    }
 }
