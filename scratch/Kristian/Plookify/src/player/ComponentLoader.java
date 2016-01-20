@@ -5,11 +5,10 @@
  */
 package player;
 
-/**
- *
- * @author Kristian
- */
 public class ComponentLoader {
+int a = 5;
+int b = 19;
+
     public static void main(String[]args){
         System.out.println("Hey");
     }
